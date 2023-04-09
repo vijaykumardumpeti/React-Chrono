@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+@media all and (max-width: 767px) {
+  .react-chrono-box-container {
+    max-width: 1000px;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .react-chrono-box-container {
+    max-width: 65%;
+  }
+}
